@@ -16,13 +16,12 @@ module.exports = {
   // daisyUI config (optional)
   daisyui: {
     styled: true,
-    themes: true,
     base: true,
     utils: true,
     logs: true,
     rtl: false,
     prefix: "",
     darkTheme: "dark",
-    theme: ["dark"]
+    themes: ["fantasy"]
   },
 }
